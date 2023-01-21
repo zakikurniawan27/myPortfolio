@@ -1,7 +1,7 @@
 import React from "react";
-import logoInstagram from "../assets/image/logo-instagram.png";
-import logoLinkedin from "../assets/image/logoLinkedin.png";
-import logoTwitter from "../assets/image/logoTwitter.png";
+import logoInstagram from "@/assets/image/logo-instagram.png";
+import logoLinkedin from "@/assets/image/logoLinkedin.png";
+import logoTwitter from "@/assets/image/logoTwitter.png";
 
 const CardContact = () => {
   return (
