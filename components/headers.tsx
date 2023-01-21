@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { useState } from "react";
 
-const headers = () => {
+const Headers = () => {
   const [navbar, setNavbar] = useState(false);
 
   return (
@@ -89,4 +89,4 @@ const headers = () => {
   );
 };
 
-export default headers;
+export default Headers;
