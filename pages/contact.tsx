@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Headers from '../components/Headers'
+import Headers from '../components/headers'
 import React from 'react'
 import CardContact from '@/components/CardContact'
 

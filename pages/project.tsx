@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React from "react";
-import Headers from "@/components/Headers";
+import Headers from "@/components/headers";
 import CardImage from "@/components/CardImage";
 
 const Project = () => {
