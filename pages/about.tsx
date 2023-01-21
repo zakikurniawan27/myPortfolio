@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React from "react";
-import Headers from "@/components/Headers";
+import Headers from "../components/Headers";
 import fotoku3 from "../assets/image/fotoku3.jpg";
 
 const About = () => {

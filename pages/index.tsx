@@ -1,7 +1,6 @@
 import Head from "next/head";
-import styles from "@/styles/Home.module.css";
 import { useRouter } from "next/router";
-import Headers from "@/components/Headers";
+import Headers from "../components/Headers";
 import fotoku from "../assets/image/fotoku.png";
 
 export default function Home() {
