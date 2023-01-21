@@ -19,7 +19,7 @@ const About = () => {
             <div className="flex justify-center">
               <img
                 className="rounded-full w-60 h-60"
-                src={fotoku3.src}
+                src='/assets/image/fotoku3.jpg'
                 alt="fotoku3"
               />
             </div>

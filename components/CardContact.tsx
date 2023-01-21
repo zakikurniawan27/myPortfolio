@@ -35,7 +35,7 @@ const CardContact = () => {
               href="https://www.instagram.com/zakiikurniawan_/"
               className="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-200 hover:bg-gray-400 group hover:shadow text-black"
             >
-              <img className="w-7 h-7" src={logoInstagram.src} alt="logoinstagram"/>
+              <img className="w-7 h-7" src="/assets/image/logo-instagram.png" alt="logoinstagram"/>
               <span className="flex-1 ml-3 whitespace-nowrap">
                 Instagram
               </span>
@@ -46,7 +46,7 @@ const CardContact = () => {
               href="https://www.linkedin.com/in/zaki-kurniawan-7z9142729/"
               className="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-200 hover:bg-gray-400 group hover:shadow text-black"
             >
-              <img className="w-7 h-7" src={logoLinkedin.src} alt="logoLinkedin"/>
+              <img className="w-7 h-7" src='/assets/image/logoLinkedin.png' alt="logoLinkedin"/>
               <span className="flex-1 ml-3 whitespace-nowrap">
                 LinkedIn
               </span>
@@ -57,7 +57,7 @@ const CardContact = () => {
               href="https://twitter.com/Jackniawan"
               className="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-200 hover:bg-gray-400 group hover:shadow text-black"
             >
-              <img className="w-7 h-7" src={logoTwitter.src} alt="logoTwitter"/>
+              <img className="w-7 h-7" src='/assets/image/logoTwitter.png' alt="logoTwitter"/>
               <span className="flex-1 ml-3 whitespace-nowrap">
                 Twitter
               </span>

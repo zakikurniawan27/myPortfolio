@@ -34,7 +34,7 @@ export default function Home() {
             </div>
             <div className="flex-initial w-72 sm:sr-only md:not-sr-only">
               <div className="relative ml-20">
-                <img width="214" src={fotoku.src} alt="fotoku" />
+                <img width="214" src='/assets/image/fotoku.png' alt="fotoku" />
                 <span className="absolute bottom-20 -z-10 left-2/4 -translate-x-2/4">
                   <svg width="400" height="400" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                     <path
