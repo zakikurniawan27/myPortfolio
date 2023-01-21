@@ -10,11 +10,11 @@ const Headers = () => {
         <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
-              <a href="/">
+              <Link href="/">
                 <h2 className="text-3xl font-bold text-green-600 font-lilitaOne">
                   MY PORTFOLIO
                 </h2>
-              </a>
+              </Link>
               <div className="md:hidden">
                 <button
                   className="p-2 text-black rounded-md outline-none focus:border-gray-400 focus:border"
