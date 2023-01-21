@@ -18,8 +18,8 @@ export default function Home() {
         <Headers />
         <div className="relative top-32 ml-16 sm:left-5 md:left-0 sm:ml-0 md:ml-16">
           <div className="flex">
-            <div className="flex-initial w-8/12 sm:w-full md:w-8/12 mt-28">
-              <p className="text-black text-5xl sm:ml-14 md:ml-0 sm:text-center md:text-start font-lilitaOne">
+            <div className="flex-initial w-8/12 sm:w-full md:w-8/12 mt-28 sm:mt-20 md:mt-28">
+              <p className="text-black text-5xl sm:ml-12 md:ml-0 sm:text-center md:text-start font-lilitaOne">
                 Hi, My Name{" "}
                 <span className="text-green-600">Muhammad Zaki Kurniawan</span>
               </p>
