@@ -46,7 +46,7 @@ const CardContact = () => {
               href="https://www.linkedin.com/in/zaki-kurniawan-7z9142729/"
               className="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-200 hover:bg-gray-400 group hover:shadow text-black"
             >
-              <img className="w-7 h-7" src='/assets/image/logoLinkedin.png' alt="logoLinkedin"/>
+              <img className="w-7 h-7" src='/assets/image/logoLinkedIn.png' alt="logoLinkedin"/>
               <span className="flex-1 ml-3 whitespace-nowrap">
                 LinkedIn
               </span>
