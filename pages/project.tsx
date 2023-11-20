@@ -21,9 +21,7 @@ const Project = () => {
           </p>
         </div>
         <div className="flex mt-14 ml-5 sm:ml-0">
-          <div className="flex-1">
-            <CardImage />
-          </div>
+          <CardImage />
         </div>
       </main>
     </>
