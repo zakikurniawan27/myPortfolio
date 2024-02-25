@@ -28,11 +28,7 @@ const About = () => {
                 Hi, i{`'`}m Zaki, nice to meet you !
               </p>
               <p className="text-md text-center italic mt-5 w-128 sm:w-72 md:w-96">
-                {`"`}I am an 8th semester informatics student from Muhammadiyah
-                University Malang who has motivation to develop self-potential.
-                Have a high interest in the field of frontend. Frequently attend
-                seminars and Frontend related workshops. in 2022 i took part in
-                a javascript frontend bootcamp at binar academy.{`"`}
+                {`"`}I am a bachelor degree of Informatics Engineering from University of Muhammadiyah Malang. Experienced as a Front-End Developer who works with HTML, CSS, JavaScript, React.js, Redux, TailwindCss, Bootstrap, and Rest API. Have a high interest in the field of web development, especially front-end developer. Attended the Kampus Merdeka program with the front-end JavaScript program at Binar Academy. A detail-oriented individual who is eager for a full-time opportunity in Front-end Web Development{`"`}
               </p>
             </div>
           </div>
