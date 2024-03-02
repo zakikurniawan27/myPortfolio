@@ -69,6 +69,19 @@ const CardImage = () => {
             </div>
           </a>
         </div>
+        <div className="bg-white rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 group relative block overflow-hidden rounded-md transition-all duration-500">
+          <a
+            className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
+            href="https://cooking-time-app.vercel.app/"
+          >
+            <img src="/assets/image/projectku6.png" alt="fotoProject" />
+            <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-orange-500 p-4 rounded shadow ">
+              <p className="text-lg text-white transition duration-300 font-medium">
+                Cooking Time App
+              </p>
+            </div>
+          </a>
+        </div>
       </div>
     </>
   );
