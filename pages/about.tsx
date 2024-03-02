@@ -2,6 +2,7 @@ import Head from "next/head";
 import React from "react";
 import Headers from "@/components/headers";
 import fotoku3 from "../assets/image/fotoku3.jpg";
+import Image from "next/image";
 
 const About = () => {
   return (
@@ -17,8 +18,10 @@ const About = () => {
         <div className="relative top-24 flex justify-center transition-all">
           <div className="sm:relative sm:left-10">
             <div className="flex justify-center">
-              <img
-                className="rounded-full w-60 h-60"
+              <Image
+                width={300}
+                height={0}
+                className="rounded-full"
                 src="/assets/image/fotoku3.jpg"
                 alt="fotoku3"
               />

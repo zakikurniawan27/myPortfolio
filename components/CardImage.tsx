@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const CardImage = () => {
   return (
@@ -9,7 +10,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://challenge-04-todoapp-j10nukeoa-zakikurniawan27.vercel.app/"
           >
-            <img src="/assets/image/projectku1.jpg" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku1.jpg"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-300 group-hover:bg-cyan-500 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 TodoList App
@@ -22,7 +28,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://movie-list-react-app.vercel.app/"
           >
-            <img src="/assets/image/projectku2.jpg" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku2.jpg"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-red-600 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 MovieList App
@@ -35,7 +46,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://flytick-finalproject.vercel.app/"
           >
-            <img src="/assets/image/projectku3.jpg" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku3.jpg"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-green-600 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 FlyTick App
@@ -48,7 +64,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://zakikurniawan27.github.io/challenge-01-new/"
           >
-            <img src="/assets/image/projectku4.png" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku4.png"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-blue-600 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 Rental Mobil Styling
@@ -61,7 +82,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://simple-calculator-murex-one.vercel.app/"
           >
-            <img src="/assets/image/projectku5.png" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku5.png"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-warna1 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 Simple Calculator
@@ -74,7 +100,12 @@ const CardImage = () => {
             className=" transition-all duration-500 group-hover:scale-105 tobii-zoom"
             href="https://cooking-time-app.vercel.app/"
           >
-            <img src="/assets/image/projectku6.png" alt="fotoProject" />
+            <Image
+              width={500}
+              height={0}
+              src="/assets/image/projectku6.png"
+              alt="fotoProject"
+            />
             <div className="absolute -bottom-52 group-hover:bottom-2 left-2 right-2 transition-all duration-300 group-hover:bg-orange-500 p-4 rounded shadow ">
               <p className="text-lg text-white transition duration-300 font-medium">
                 Cooking Time App
